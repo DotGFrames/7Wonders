@@ -1,0 +1,9 @@
+Frame Hardwares
+8 x 22mm 
+8 x 26mm 
+4 x standoff 30mm
+8 x 6mm for standoff
+
+For Fc and ESC
+4 x 20mm 
+4 x nylon locknut gold
